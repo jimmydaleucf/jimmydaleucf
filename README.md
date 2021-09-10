@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimmydaleucf
 - 👀 I’m currently a Sr Program Manager in a technology organization. 
-- 🌱 I’m currently beginning to learn how to write code! :) 
+- 🌱 I’m also learning how to write code! :) 
 - 🇺🇸 I'm also a big Politics nerd. 
 
 <!---
