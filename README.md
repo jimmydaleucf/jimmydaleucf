@@ -3,7 +3,7 @@
 - 👀 I’m currently a Sr Technical Program Manager in a media technology organization. 
 - 🇺🇸 I'm also a big Politics nerd. 
 
-After being a tech program manager for about 9 years, I decided that I wanted to learn to write code too! So in 2021, I took two nanodegree programs offered by Udacity.  Since then, I have continued to learn and grow my skills. I really like maps, and elections data, so that's been the playground I've been playing in for a bit.
+After being in projectand program management for about 9 years, I decided that I wanted to learn to write code too! So in 2021, I took two nanodegree programs offered by Udacity.  Since then, I have continued to learn and grow my skills. I really like maps, and elections data, so that's been the playground I've been playing in for a bit.
 
 # About my code
 
