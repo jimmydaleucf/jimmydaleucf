@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m Jimmy!
-- 👀 I’m currently a Sr Manager, Technical Program Management in a media technology organization. 
+- 👀 I’m currently a Director, Program Delivery in a digital products and services organization. 
 - 🇺🇸 I'm also a big politics nerd. 
 
 After being in project and program management for about 9 years, I decided that I wanted to learn to write code too! So in 2021, I took two nanodegree programs offered by Udacity.  Since then, I have continued to learn and grow my skills. I really like maps and elections data, so that's been the playground I've been playing in for a bit.
